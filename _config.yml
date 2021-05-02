@@ -1,0 +1,9 @@
+title: Zhijie Wang
+author: Zhijie Wang
+description: Zhiije Wang's Homepage
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-seo-tag
