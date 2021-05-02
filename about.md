@@ -6,6 +6,7 @@ title: "About Me"
 
 ## About Me
 
-I am a PhD student at Computere Vision Lab., Tohoku University, advised by Prof. Takayuki Okatani. My research interests include semantic segmentation and domain adaptation.
+I am a PhD student at Computere Vision Lab., Tohoku University, advised by Prof. Takayuki Okatani.
 
-[CV](cv) / [Publications](publications)
+## Projects
+1 Matching in the Dark (projects/mid)
