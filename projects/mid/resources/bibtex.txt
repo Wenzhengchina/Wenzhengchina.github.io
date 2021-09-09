@@ -1,6 +1,6 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@inproceedings{MID2021,
+  title={Matching in the Dark: A Dataset for Matching Image Pairs of Low-light Scenes},
+  author={Wenzheng Song, Masanori Suganuma, Xing Liu, Noriyuki Shimobayashi, Daisuke Maruta, Takayuki Okatani},
+  booktitle={Proc. ICCV},
+  year={2021}
 }
